@@ -1,0 +1,3 @@
+testclient.Program.tc1()
+testclient.Program.tc2()
+testclient.Program.tc3()
